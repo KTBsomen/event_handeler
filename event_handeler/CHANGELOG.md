@@ -1,3 +1,4 @@
-## 0.0.1
+## 0.0.2
 
 * TODO: Describe initial release.
+Fixed the issue of multiple subscriptions on every rebuild

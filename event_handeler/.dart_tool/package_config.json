@@ -45,9 +45,9 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///C:/Users/somen/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.2",
+      "rootUri": "file:///C:/Users/somen/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter_test",
@@ -164,7 +164,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-03-08T11:21:25.026083Z",
+  "generated": "2025-03-08T12:33:13.724937Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///C:/Users/somen/flutter/flutter",
