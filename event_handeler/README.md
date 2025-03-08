@@ -50,9 +50,8 @@ print(eventvalue);//prints clear filters
 
 
 
-   [dill]: <https://github.com/joemccann/dillinger>
    [GitHub Repo Url]: <https://github.com/KTBsomen/dillinger.git>
-   [somen das]: <http://daringfireball.net>
+   [somen das]: <https://github.com/KTBsomen/>
    [df1]: <mailto:somen6562@gmail.com>
    
 
