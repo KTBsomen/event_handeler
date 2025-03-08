@@ -1,7 +1,8 @@
 name: event_handeler
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: A new Flutter package for event management.
+version: 0.0.2
+homepage: "https://github.com/KTBsomen/event_handeler.git"
+repository: https://github.com/KTBsomen/event_handeler.git
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

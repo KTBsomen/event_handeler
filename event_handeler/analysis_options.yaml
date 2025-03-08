@@ -1,4 +1,8 @@
 include: package:flutter_lints/flutter.yaml
+# The following line enables the "analyze" action for this package's Dart
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
+linter:
+  rules:
+    - public_member_api_docs
