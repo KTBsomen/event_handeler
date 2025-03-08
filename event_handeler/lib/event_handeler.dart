@@ -59,3 +59,14 @@ StreamSubscription addCustomEventListener(
     }
   });
 }
+
+/// Add a one-time event listener (auto-disposes after first event)
+void addOneTimeEventListener(
+    dynamic listenForType, Function(dynamic) callback) {
+  late StreamSubscription subscription;
+
+  subscription = addCustomEventListener(listenForType, (data) {
+    callback(data);
+    subscription.cancel(); // Automatically remove listener after first event
+  });
+}
